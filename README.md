@@ -2,7 +2,17 @@
 
 StudyPilot is a full-stack MERN application that gives a student one place to manage subjects, assignments, exams, labs and study sessions — with deadline tracking, a progress dashboard and a weekly planner.
 
-> **Screenshots:** add yours in `docs/screenshots/` and link them here (dashboard, tasks, planner, mobile view).
+
+## Screenshots
+
+### Dashboard
+![StudyPilot Dashboard](docs/screenshots/dashboard.png)
+
+### Task Management
+![StudyPilot Tasks](docs/screenshots/tasks.png)
+
+### Weekly Planner
+![StudyPilot Weekly Planner](docs/screenshots/planner.png)
 
 ## Features
 
